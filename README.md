@@ -31,7 +31,7 @@ I'm a passionate **Full-Stack Developer** focused on building robust and scalabl
 
 | GitHub Stats | Most Used Languages |
 |--------------|---------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZackoYo&show_icons=true&theme=dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZackoYo&layout=compact&hide=html,css&theme=default) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZackoYo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZackoYo&layout=compact&hide=html,css&theme=tokyonight) |
 
 ---
 
