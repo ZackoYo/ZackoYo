@@ -37,7 +37,7 @@ I'm a passionate **Full-Stack Developer** focused on building robust and scalabl
 - ⚙️ Clean architecture & enterprise-grade .NET backends  
 - 🎯 Angular components with reactive state & scalability  
 - 📈 Application logging & performance tracing (Serilog + Elastic APM)  
-- ☁️ CI/CD, Docker, GitHub Actions, and DevOps automation  
+- ☁️ <!--CI/CD,-->Docker, GitHub Actions, and DevOps automation  
 
 ---
 
@@ -45,7 +45,7 @@ I'm a passionate **Full-Stack Developer** focused on building robust and scalabl
 
 | GitHub Stats | Most Used Languages |
 |--------------|---------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZackoYo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZackoYo&layout=compact&langs_count=6&theme=tokyonight&hide_border=true) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZackoYo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=issues,contribs&theme=algolia) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZackoYo&layout=compact&langs_count=6&theme=algolia&hide_border=true) |
 
 ---
 
@@ -53,7 +53,7 @@ I'm a passionate **Full-Stack Developer** focused on building robust and scalabl
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zarko@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://your-portfolio-link.com)-->
 
 ---
 
