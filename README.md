@@ -31,14 +31,14 @@ I'm a passionate **Full-Stack Developer** focused on building robust and scalabl
 
 | GitHub Stats | Most Used Languages |
 |--------------|---------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&hide=html,css&theme=default) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZackoYo&show_icons=true&theme=dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZackoYo&layout=compact&hide=html,css&theme=default) |
 
 ---
 
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zarko@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
 
 ---
